@@ -2,7 +2,7 @@ const idCountryInfoContent = document.getElementById('idCountryInfoContent');
 
 idCountryInfoContent.innerHTML = `Country Information will be displayed here`;
 
-const baseUrl = "http://localhost:8080/api/country";
+const baseUrl = "https://country-info-kl1q.onrender.com/api/country";
 
 const idCountryName = document.getElementById('idCountryName');
 
